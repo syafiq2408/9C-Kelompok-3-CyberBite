@@ -98,7 +98,7 @@ export const HomeSection: React.FC<HomeSectionProps> = ({ setActiveTab, onOpenPr
           <div className="lg:col-span-6">
             <div className="relative rounded-3xl overflow-hidden border border-stone-200 shadow-sm bg-white group">
               <img
-                src="/src/assets/images/smart_cafe_isometric_concept_1794284119871.jpg"
+                src="/smart_cafe_isometric_concept_1794284119871.jpg"
                 alt="Isometric 3D architectural floor plan of CyberBite Smart Cafe designed by Grade 9 students"
                 referrerPolicy="no-referrer"
                 className="w-full h-auto object-cover transform transition-transform duration-500 group-hover:scale-[1.01]"

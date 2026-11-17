@@ -38,7 +38,7 @@ export const DesignSection: React.FC = () => {
           <div className="bg-white rounded-3xl border border-stone-200 overflow-hidden shadow-xs">
             <div className="relative group">
               <img
-                src="/src/assets/images/smart_cafe_isometric_concept_1794284119871.jpg"
+                src="/smart_cafe_isometric_concept_1794284119871.jpg"
                 alt="Detailed 3D isometric layout diagram of CyberBite Smart Cafe"
                 referrerPolicy="no-referrer"
                 className="w-full h-auto object-cover"
@@ -57,7 +57,7 @@ export const DesignSection: React.FC = () => {
           <div className="bg-white rounded-3xl border border-stone-200 overflow-hidden shadow-xs flex flex-col md:flex-row">
             <div className="md:w-1/2">
               <img
-                src="/src/assets/images/smart_cafe_interior_view_1794284121767.jpg"
+                src="/smart_cafe_interior_view_1794284121767.jpg"
                 alt="Interior study tables with wireless chargers and students collaborating"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover min-h-[200px]"

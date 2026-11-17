@@ -132,7 +132,7 @@ export const TechSection: React.FC = () => {
           <div className="space-y-4">
             <div className="relative rounded-2xl overflow-hidden border border-stone-200/80">
               <img
-                src="/src/assets/images/smart_robot_barista_counter_1794284120908.jpg"
+                src="/smart_robot_barista_counter_1794284120908.jpg"
                 alt="Robotic barista arm in action"
                 referrerPolicy="no-referrer"
                 className="w-full h-48 object-cover"
